@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://glowbajocontrol.netlify.app/sitemap.xml
